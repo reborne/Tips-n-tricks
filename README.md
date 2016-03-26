@@ -12,7 +12,7 @@ This *.ini configuration allows your JVM use less than 1Gb RAM(in common around 
 #My Specs:
 <ul>
  <li>Linux Ubuntu 14.04.4 LTS</li>
- <li>Spring Tool Suite 3.7.3.REALEASE</li>
+ <li>Spring Tool Suite 3.7.3.RELEASE</li>
 </ul>
 
 I hope it helped to you!
